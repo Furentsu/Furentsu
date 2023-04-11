@@ -1,11 +1,9 @@
-[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate software developer from Italy</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y_6-wK3biBAAAAAd/penrose-triangle.gif"></img>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furentsu" alt="furentsu" /></a> </p>
+<div align="center"><img src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif"/></div>
 
 - 🔭 I’m currently working on **Computational Genomics**
 
