@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
-
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate software developer from Italy</h3>
 
@@ -7,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computational Genomics**
 
-- 🌱 I’m currently learning **R, Python, Nextflow**
+- 🌱 I’m currently learning **R, Python, Bash, Nextflow**
 
 - 📫 How to reach me **eugeniofranzoso@gmail.com**
 
