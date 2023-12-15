@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate software developer from Italy</h3>
 
-<div align="center"><img src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif"/></div>
-
 - 🔭 I’m currently working on **Computational Genomics**
 
 - 🌱 I’m currently learning **R, Python, Bash, Nextflow**
