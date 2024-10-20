@@ -1,4 +1,4 @@
-# furentsu
+# furenつ 🚀
 
 **`Bioinformatician`**
 
