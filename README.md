@@ -6,7 +6,7 @@
 I began my scientific journey as a molecular biologist, but I fell in love with programming along the way.
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/eugenio-franzoso-9809b3226/" target="blank">
+    <a href="https://www.linkedin.com/in/eugenio-franzoso-9809b3226/" target="_blank">
         <img alt="linkedin" title="Follow me on LikedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin-img&logoColor=white"/></a> 
 </div>
 
