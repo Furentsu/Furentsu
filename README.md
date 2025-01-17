@@ -1,9 +1,9 @@
-# 🧬 💻 furenつ
+# 💻 furenつ 🧬
 
-**`Bioinformatician`**
+**`Software developer | Bioinformatician`**
 
 
-I began my scientific journey as a molecular biologist, but I fell in love with programming along the way.
+I began my journey as a molecular biologist, but I fell in love with programming along the way.
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/eugenio-franzoso-9809b3226/" target="_blank">
@@ -31,15 +31,6 @@ I began my scientific journey as a molecular biologist, but I fell in love with 
 ### 📊 Stats
 
 ![Furentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=furentsu&show_icons=true&theme=gruvbox)
-
----
-
-<!-- Snake -->
-<div align="center">
-
-![snake gif](https://github.com/Furentsu/Furentsu/blob/output/github-snake-dark.svg)
-</div>
-
 
 ---
 
